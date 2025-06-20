@@ -1,4 +1,4 @@
-![Preview](https://raw.githubusercontent.com/iamimranshaikh/responsive-ui-showcase/main/responsive_ui_showcase_preview.png)
+![Preview](https://raw.githubusercontent.com/iamimranshaikh/responsive-ui-showcase/main/responsive_ui_showcase_preview.PNG)
 
 # 💡 Responsive UI Showcase
 
